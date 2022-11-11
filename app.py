@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-apikey = "<DZZBDjUncDtsb0PRX3AKAkR4H918z2mo>"
+apikey = "DZZBDjUncDtsb0PRX3AKAkR4H918z2mo"
 
 chat_logs = []
 
