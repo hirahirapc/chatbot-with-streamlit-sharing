@@ -5,7 +5,7 @@ apikey = "DZZBDjUncDtsb0PRX3AKAkR4H918z2mo"
 
 chat_logs = []
 
-st.title("Chatbot with streamlit")
+st.title("Chatbot with streamlit by Hirai")
 
 st.subheader("メッセージを入力してから送信をタップしてください")
 
