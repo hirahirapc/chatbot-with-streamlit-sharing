@@ -1,4 +1,0 @@
-参考サイト
-
-PythonのStreamlitでチャットボットWebアプリケーションをお手軽に作るレシピ
-https://axross-recipe.com/recipes/348
